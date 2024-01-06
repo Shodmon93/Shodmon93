@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Shodmon 
 - 👀 Intarested in learning new things everyday
-- 🌱 I’m currently learning Android developmant in java/Kotlin
+- 🌱 Android developer Kotlin
+- .Net Developer at Finca International
 - 💞️ I’m looking to collaborate on any poroject that will help me to improve my knowladge in java and kotlin 
 - 📫 my E-mail shodik.9393@gmail.com 
 - my WatsApp number +992 98-585-56-96
